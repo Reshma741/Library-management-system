@@ -1,10 +1,10 @@
-📚 Library Management System (Spring Boot)
+👤 User Management System (Spring Boot)
 Description:
-A RESTful apis built with Spring Boot to manage library books with full CRUD functionality.
+A RESTful web application built with Spring Boot to manage user data with full CRUD functionality.
 
 Key Features:
 
-Developed CRUD APIs to manage book records.
+Developed CRUD APIs to manage user records.
 
 Implemented layered architecture with Controller, Service, and Repository layers.
 
